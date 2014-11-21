@@ -1,0 +1,519 @@
+/*Mobile portrait*/
+@media (max-width:480px) {
+    .logo {
+       position:absolute;
+    }
+    .logo img{
+        width:50%;
+    }
+
+    .lang {
+margin-right: 12px!important;
+} 
+    .search input[type="search"] {
+        width:100px!important;
+    }
+
+     #slider1 {
+        display:none;
+    }
+    
+  .std h1
+    {
+        font-size: 22px;
+        width: 97%!important;
+        }
+    
+    .prd-features
+    {
+        padding-left: 0px;
+        margin-left: 0px;
+        }
+    
+    .contents
+    {
+        
+        margin-left: 70px;
+        margin-top: -70px;
+        padding-left: 37px;
+        }
+        
+      .core-purple
+      {  
+        font-size: 34px!important;
+      } 
+        
+      .desc
+      {
+          font-size: 18px!important;
+          }
+          
+      #car
+      {
+          padding-left:0px!important;
+          }
+          
+          .prd-features
+          {
+              font-size: 12px!important;
+              margin-top: 35px!important;
+              }
+              
+             .glyphicon-ok{ 
+              font-size: 200%!important;
+             }
+             
+          .links
+          {
+              font-size: 12px!important;
+              margin-right: 18px!important;
+
+              }
+              
+              .prd
+              {
+                  width:96%;
+                  min-height:600px!important;
+                  }
+              
+              .prd .prd-images img
+              {
+                  display:none!important;
+                  }
+                  
+              .btn-lg, .btn-group-lg > .btn 
+
+              {
+                  font-size:16px!important;
+                  }
+}
+
+
+/*Mobile landscape*/
+@media (min-width: 481px) and (max-width:599px) {
+    .logo {
+       position:absolute;
+    }
+    .logo img{
+        width:50%;
+    }
+
+    .lang {
+margin-right: 12px!important;
+} 
+    .search input[type="search"] {
+        width:100px!important;
+    }
+
+    #slider1 {
+        display:none;
+    }
+    
+   .std h1
+    {
+        width: 98%!important;
+        }
+    
+     .contents
+    {
+        
+        margin-left: 70px;
+        margin-top: -70px;
+        padding-left: 50px;
+        }
+        
+       .prd
+              {
+                  width:96%;
+                  min-height:600px!important;
+                  }
+        
+    .prd .prd-images img
+              {
+                  display:none!important;
+                  }
+    
+}
+
+/*Small tablet portrait*/
+@media (min-width: 600px) and (max-width: 767px) 
+{
+    
+    .prd .prd-images img
+              {
+                  display:none!important;
+                  }
+  
+  .prd .prd-col-footer-links
+  {
+      padding-bottom: 0px!important;
+      }
+  
+  .profoot
+  {
+      float:left;
+      }
+  
+  .links
+          {
+              font-size: 13px!important;
+              }
+  
+ /* .img1 {
+   left: 272px!important;
+   width: 59%;
+   top: -419px;
+   }
+   
+   .img2{
+    left: 272px!important;
+    top: -173px!important;
+    width: 35.5%!important;
+   }
+   
+   .img3 {
+  right: -45px!important;
+  top: -172px!important;
+  width: 34%!important;
+   }
+  
+   .btnquote
+    {
+    position: relative;
+    top: 55px;
+    right: 257px;
+    }*/
+    
+   .prd h1
+   {
+       font-size:35px!important;
+       }
+             
+   .prd
+    {
+       width:78%;
+       min-height:520px!important;
+       }
+       
+    .prd .desc
+    {
+       font-size:14px!important; 
+       width: 60%;
+        }
+        
+     .prd .prd-features
+     {
+         font-size:14px!important; 
+         margin-top:21px!important;
+         }
+  
+            .prd-features{  
+              font-size: 11px;
+              display: inline-block;
+            }
+   
+   .infocust
+   {
+      display: inline-flex; 
+       }
+   
+   .home-box1
+   {
+       width:50%;
+       }
+   
+   .home-box2
+   {
+       width:50%;
+       }
+       
+  .std h1{
+       width:75%!important;
+       }
+   
+   
+    .contents
+    {
+        
+        margin-left: 70px;
+        margin-top: -70px;
+        padding-left: 37px;
+        }
+   
+}
+
+/*Small tablet landscape*/
+@media (min-width: 768px) and (max-width: 979px) 
+{       
+     .contents
+    {
+        
+        margin-left: 70px;
+        margin-top: -70px;
+        padding-left: 37px;
+        }
+   
+    .std
+    {
+        padding-bottom:26px!important;
+        }
+    
+    
+    
+      .prd .prd-col-footer-links
+  {
+      padding-bottom: 0px!important;
+      margin-top:12px!important;
+      }
+  
+  .profoot
+  {
+      float:left;
+      }
+  
+  .links
+          {
+              font-size: 13px!important;
+              }
+  
+  .img1 {
+   left: 339px!important;
+   width: 50%;
+   top: -360px;
+   }
+   
+   .img2{
+    left: 339px!important;
+    top: -144px!important;
+    width: 25%!important;
+   }
+   
+   .img3 {
+  right: -15px!important;
+  top: -144px!important;
+  width: 25%!important;
+   }
+  
+   .btnquote
+    {
+    position: relative;
+    top: 55px;
+    right: 257px;
+    }
+    
+   .prd h1
+   {
+       font-size:35px!important;
+       margin-top:20px!important;
+       }
+             
+   .prd
+    {
+       width:91%;
+       min-height:364px!important;
+       margin-top:-60!important;
+       overflow:hidden;
+       }
+       
+    .prd .desc
+    {
+       font-size:14px!important; 
+       width: 45%;
+       margin-top:16px!important;
+        }
+        
+     .prd .prd-features
+     {
+         font-size:14px!important; 
+         margin-top:21px!important;
+         }
+  
+            .prd-features{  
+              font-size: 11px;
+              display: inline-block;
+            }
+      .prd-footer2
+      {
+          margin-top:-90px!important;
+          padding-top:110px!important;
+          }
+   
+   .infocust
+   {
+      display: inline-flex; 
+       }
+
+    
+    .top-search {
+        float:right;
+    }
+    .navbar {
+        float:right;
+    }
+    .home-box1 {
+        width:40% !important;
+    }
+    .home-box2 {
+        width:55% !important;
+    }
+    #slider1 .viewport {
+        left: -40px!important;
+        width:116%!important;
+    }
+}
+/*Tablet portrait*/
+@media (min-width:801px) and (max-width:1023px) 
+{
+     .links
+          {
+              font-size: 13px!important;
+              }
+  
+  .img1 {
+    left: 361px!important;
+    width: 60%;
+    top: -567px;
+}
+   
+   
+   .img2{
+    left: 360px!important;
+    top: -223px!important;
+    width: 31%!important;
+}
+   
+   
+   .img3 {
+    right: -15px!important;
+    top: -223px!important;
+    width: 30%!important;
+   }
+  
+    
+   .prd h1
+   {
+       font-size:35px!important;
+       }
+             
+   .prd
+    {
+       width:91%;
+       min-height:588px!important;
+       }
+       
+    .prd .desc
+    {
+       font-size:14px!important; 
+       width: 45%;
+        }
+        
+        .prd .prd-features
+     {
+         font-size:14px!important; 
+         } 
+    
+   .std h1{
+        width:59%!important;
+        }
+        
+    .contents
+    {
+    padding-left: 35px;
+    padding-top: 10px;
+    }
+    
+    .home-box1 {
+        width:40% !important;
+    }
+    .home-box2 {
+        width:55% !important;
+    }
+     #slider1 .viewport {
+        left: -40px!important;
+        width:116%!important;
+    }
+
+}
+
+/*Tablet landscape (1024x768)*/
+@media (min-width: 992px) and (max-width: 1199px)
+{
+      .links
+          {
+              font-size: 13px!important;
+              }
+  
+  .img1 {
+    left: 377px!important;
+    width: 59%;
+    top: -569px;
+}
+   
+   
+   .img2{
+    left: 376px!important;
+    top: -223px!important;
+    width: 30%!important;
+}
+   
+   
+   .img3 {
+    right: -15px!important;
+    top: -223px!important;
+    width: 29.1%!important;
+   }
+  
+    
+   .prd h1
+   {
+       font-size:35px!important;
+       }
+             
+   .prd
+    {
+       width:91%;
+       min-height:586px!important;
+       overflow:hidden;
+       }
+       
+    .prd .desc
+    {
+       font-size:14px!important; 
+       width: 45%;
+        }
+        
+        .prd .prd-features
+     {
+         font-size:14px!important; 
+         } 
+    
+   .std h1{
+        width:59%!important;
+        }
+        
+    .contents
+    {
+    padding-left: 35px;
+    padding-top: 10px;
+    }
+    
+    
+     .home-box1 {
+        width:40% !important;
+    }
+    .home-box2 {
+        width:55% !important;
+    }
+     #slider1 .viewport {
+        left: -40px!important;
+        width:116%!important;
+    }
+}
+
+
+
+/*large monitor*/
+@media (min-width:1400px) and (max-width:1920px){
+
+}
+

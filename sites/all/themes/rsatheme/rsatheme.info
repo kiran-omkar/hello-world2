@@ -1,0 +1,35 @@
+name = RSA Theme
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = _assets/css/bootstrap.css
+stylesheets[all][] = _assets/css/override-bootstrap-responsive.css
+stylesheets[all][] = _assets/css/style.css
+stylesheets[all][] = _assets/css/tinycarousel.css
+
+scripts[] = _assets/js/jquery-1.11.0.min.js
+scripts[] = _assets/js/bootstrap.min.js
+scripts[] = _assets/js/jquery.tinycarousel.js
+scripts[] = _assets/js/app.js
+
+regions[header]         = Header
+regions[navigation]     = Navigation bar
+regions[slider]         = Slider
+regions[content_header] = Content Header
+regions[highlighted]    = Highlighted
+regions[help]           = Help
+regions[content]        = Content
+regions[sidebar_first]  = First sidebar
+regions[sidebar_second] = Second sidebar
+regions[footer]         = Footer
+regions[bottom]         = Page bottom
+regions[page_top]       = Page top
+regions[page_bottom]    = Page bottom
+
+
+
+features[] = logo
+features[] = name
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu

@@ -1,0 +1,14 @@
+html {
+  direction: rtl;
+}
+
+/**
+ * Generic elements
+ */
+body {
+  direction: rtl;
+}
+/*Added by Kiran Language Switcher*/
+.form-item.form-type-item{
+    display: none;
+}
